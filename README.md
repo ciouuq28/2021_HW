@@ -15,6 +15,8 @@
 
 `2021`
 
+~~2021~~
+
 [高科大](https://www.nkust.edu.tw/index.php)
 
 ![NKUST](	https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png)
@@ -27,3 +29,8 @@
 ```python=
 print("hello")
 ```
+
+|Left-ALLgned|Center-ALLgned|Right-ALLgned|
+|:-------    |:------------:|    --------:|
+|col 3 is    |col 3 is      |col 3 is     |
+|col 3 is    |col 3 is      |col 3 is     |
